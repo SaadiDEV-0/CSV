@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Centaurus Mall",
+    "address": "Shopping mall with international brands and dining",
+    "lat": 33.7096,
+    "long": 73.0551,
+    "siteaddress": "Centaurus Mall",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Faisal Mosque",
+    "address": "Iconic mosque and architectural landmark",
+    "lat": 33.7291,
+    "long": 73.0405,
+    "siteaddress": "Faisal Mosque",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Daman-e-Koh",
+    "address": "Popular viewpoint overlooking Islamabad",
+    "lat": 33.7491,
+    "long": 73.0586,
+    "siteaddress": "Daman-e-Koh",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Pakistan Monument",
+    "address": "National monument and museum",
+    "lat": 33.6938,
+    "long": 73.065,
+    "siteaddress": "Pakistan Monument",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Lok Virsa Museum",
+    "address": "Cultural museum showcasing Pakistani heritage",
+    "lat": 33.6923,
+    "long": 73.0666,
+    "siteaddress": "Lok Virsa Museum",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Rawal Lake",
+    "address": "Artificial lake with boating and picnic areas",
+    "lat": 33.7085,
+    "long": 73.1284,
+    "siteaddress": "Rawal Lake",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Saidpur Village",
+    "address": "Historic village turned into cultural and dining hub",
+    "lat": 33.7378,
+    "long": 73.0855,
+    "siteaddress": "Saidpur Village",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Lake View Park",
+    "address": "Recreational park near Rawal Lake",
+    "lat": 33.7071,
+    "long": 73.1327,
+    "siteaddress": "Lake View Park",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Jinnah Super Market",
+    "address": "Famous shopping and dining area",
+    "lat": 33.7199,
+    "long": 73.0477,
+    "siteaddress": "Jinnah Super Market",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Blue Area",
+    "address": "Main business and commercial district",
+    "lat": 33.7088,
+    "long": 73.0599,
+    "siteaddress": "Blue Area",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "F-9 Park (Fatima Jinnah Park)",
+    "address": "Large urban park with walking trails",
+    "lat": 33.6932,
+    "long": 73.0217,
+    "siteaddress": "F-9 Park (Fatima Jinnah Park)",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Margalla Hills National Park",
+    "address": "Nature park for hiking and wildlife",
+    "lat": 33.7771,
+    "long": 73.0661,
+    "siteaddress": "Margalla Hills National Park",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Safa Gold Mall",
+    "address": "Luxury shopping mall in F-7",
+    "lat": 33.7187,
+    "long": 73.0495,
+    "siteaddress": "Safa Gold Mall",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Parliament House",
+    "address": "Seat of the National Assembly of Pakistan",
+    "lat": 33.719,
+    "long": 73.0912,
+    "siteaddress": "Parliament House",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Supreme Court Building",
+    "address": "Judicial landmark near Constitution Avenue",
+    "lat": 33.7195,
+    "long": 73.0954,
+    "siteaddress": "Supreme Court Building",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Pir Sohawa",
+    "address": "Hilltop spot with restaurants and views of Islamabad",
+    "lat": 33.773,
+    "long": 73.0562,
+    "siteaddress": "Pir Sohawa",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Monal Restaurant",
+    "address": "Scenic restaurant on Margalla Hills",
+    "lat": 33.7725,
+    "long": 73.0569,
+    "siteaddress": "Monal Restaurant",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Rose and Jasmine Garden",
+    "address": "Beautiful garden with floral displays",
+    "lat": 33.695,
+    "long": 73.101,
+    "siteaddress": "Rose and Jasmine Garden",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Rawalpindi Cricket Stadium",
+    "address": "International cricket venue",
+    "lat": 33.6275,
+    "long": 73.0568,
+    "siteaddress": "Rawalpindi Cricket Stadium",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Ayub National Park",
+    "address": "Large park with zoo and recreational facilities",
+    "lat": 33.5725,
+    "long": 73.087,
+    "siteaddress": "Ayub National Park",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Raja Bazaar",
+    "address": "Traditional market in old Rawalpindi",
+    "lat": 33.601,
+    "long": 73.0509,
+    "siteaddress": "Raja Bazaar",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Saddar Rawalpindi",
+    "address": "Commercial center with shops and eateries",
+    "lat": 33.598,
+    "long": 73.0465,
+    "siteaddress": "Saddar Rawalpindi",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Nust University H-12",
+    "address": "Leading science and technology university",
+    "lat": 33.6454,
+    "long": 72.9991,
+    "siteaddress": "Nust University H-12",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Bahria Town Phase 7",
+    "address": "Modern residential and commercial area",
+    "lat": 33.5375,
+    "long": 73.104,
+    "siteaddress": "Bahria Town Phase 7",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Giga Mall",
+    "address": "Large shopping mall in DHA Islamabad",
+    "lat": 33.5087,
+    "long": 73.0908,
+    "siteaddress": "Giga Mall",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "DHA Islamabad Phase 2",
+    "address": "Planned residential area with amenities",
+    "lat": 33.5471,
+    "long": 73.0978,
+    "siteaddress": "DHA Islamabad Phase 2",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Lal Haveli",
+    "address": "Historic political landmark in Rawalpindi",
+    "lat": 33.6001,
+    "long": 73.0554,
+    "siteaddress": "Lal Haveli",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Army Museum Rawalpindi",
+    "address": "Museum showcasing Pakistan Army heritage",
+    "lat": 33.5893,
+    "long": 73.0922,
+    "siteaddress": "Army Museum Rawalpindi",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Shah Faisal Avenue",
+    "address": "Major road connecting central Islamabad",
+    "lat": 33.7015,
+    "long": 73.0653,
+    "siteaddress": "Shah Faisal Avenue",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  },
+  {
+    "name": "Islamabad Zoo (Old Site)",
+    "address": "Former zoo area now part of Margalla Hills project",
+    "lat": 33.7303,
+    "long": 73.0572,
+    "siteaddress": "Islamabad Zoo (Old Site)",
+    "iconURL": "https://www.pinclipart.com/picdir/big/215-2150647_radio-communication-tower-png-image-clipart.png"
+  }
+]
